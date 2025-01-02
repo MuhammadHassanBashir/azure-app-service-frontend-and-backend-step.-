@@ -47,7 +47,7 @@ step for backend deployment
     
     and upload thi zip to kudu…..
 
-    or backend app service ki configuration wasy hi honi ha jesy usama zaheer bhai na btaya tha...  **but you also need to make this sure k backend ki app service us private subnet ma ho jis ma database pari ha...**
+    or backend app service ki configuration wasy hi honi ha jesy usama zaheer bhai na btaya tha...  **but you also need to make this sure k backend ki app service us private subnet ma ho jis ma subnet ma database pari ha...**
     
     or postman sa isko test kr lo..
 
