@@ -18,8 +18,10 @@ Step for azure fronted deployment:
     
     For this go to azure app service > settings > configuration > path mapping > add virtual path 
     
-    like: virtual path: /apt
+    like: virtual path: /
             phyical path: site\wwwroot\axelerate-web 
+
+     it should ba "application" selected
     
     
     remember: frontend is writthen on nodejs on version 16 you can use version 18
